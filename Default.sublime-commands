@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Symfony: go to view",
+        "command": "symfony_view"
+    }
+]
